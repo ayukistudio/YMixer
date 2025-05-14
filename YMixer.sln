@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YMixer", "YMixer\YMixer.csproj", "{9E7A5566-7DA4-45A8-BC33-69184EB2166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E7A5566-7DA4-45A8-BC33-69184EB2166A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7A5566-7DA4-45A8-BC33-69184EB2166A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7A5566-7DA4-45A8-BC33-69184EB2166A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7A5566-7DA4-45A8-BC33-69184EB2166A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D9C73C-8E42-4FFD-83C1-9322FBA4E4CB}
+	EndGlobalSection
+EndGlobal
