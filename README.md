@@ -1,6 +1,6 @@
 # YMixer - A Modern Audio Mixer for Windows 11
 
-![YMixer Icon](icon.png)  
+![YMixer Screenshot](https://github.com/ayukistudio/YMixer/blob/main/img/1.png)  
 *Take control of your audio like never before.*
 
 YMixer is a lightweight, intuitive, and powerful audio mixer designed to bring back the convenience of per-application volume control to Windows 11, while adding modern features like an equalizer and customizable presets. If you've missed the classic Windows 10 volume mixer or want more control over your audio, YMixer is here to fill the gap with style and functionality.
@@ -25,6 +25,8 @@ YMixer displays all active audio sessions in a clean, scrollable interface. Each
 - A volume percentage display for precision.
 - Dedicated sliders for global volume and system sounds.
 
+![YMixer Interface](https://github.com/ayukistudio/YMixer/blob/main/img/1.png)
+
 ### 2. System Tray Integration
 No need to dig through settings—YMixer lives in your system tray. Choose to open it with a click or simply hover over the tray icon for instant access. The mixer pops up near the taskbar, perfectly positioned for quick adjustments.
 
@@ -34,6 +36,8 @@ Take your audio to the next level with YMixer's built-in equalizer:
 - Boost bass for richer sound or fine-tune mids and highs for clarity.
 - Apply a volume boost (up to 300%) for extra loudness when needed.
 - Save equalizer settings as presets for specific apps or global use.
+
+![YMixer Equalizer](https://github.com/ayukistudio/YMixer/blob/main/img/2.png)
 
 ### 4. Preset Management
 Create and save custom audio profiles for different scenarios:
@@ -71,7 +75,7 @@ The Windows 11 audio settings are streamlined but lack the granular control of t
 
 ## Installation
 
-1. **Download**: Grab the latest release from the [GitHub Releases](https://github.com/yourusername/YMixer/releases) page.
+1. **Download**: Grab the latest release from the [GitHub Releases](https://github.com/ayukistudio/YMixer/releases) page.
 2. **Install**: Run the installer or extract the portable version to your desired folder.
 3. **Run**: Launch `YMixer.exe`, and it will appear in your system tray.
 4. **Optional**: Ensure your audio drivers are up to date for optimal performance.
@@ -103,4 +107,4 @@ YMixer is licensed under the [MIT License](LICENSE). Feel free to use, modify, a
 ---
 
 *YMixer - Because great audio deserves great control.*  
-Star the project on [GitHub](https://github.com/yourusername/YMixer) and take your Windows 11 audio experience to the next level! 🎵
+Star the project on [GitHub](https://github.com/ayukistudio/YMixer) and take your Windows 11 audio experience to the next level! 🎵
