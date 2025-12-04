@@ -1,4 +1,4 @@
-# YMixer - A Modern Audio Mixer for Windows 11
+# YMixer - OldSchool Mixer for Windows 11
 
 ![YMixer Screenshot](https://github.com/ayukistudio/YMixer/blob/main/img/1.png)  
 *Take control of your audio like never before.*
